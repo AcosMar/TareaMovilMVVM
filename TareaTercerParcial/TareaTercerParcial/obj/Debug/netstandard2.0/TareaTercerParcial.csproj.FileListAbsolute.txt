@@ -1,0 +1,36 @@
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\TareaTercerParcial.deps.json
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\TareaTercerParcial.dll
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\ref\TareaTercerParcial.dll
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\TareaTercerParcial.pdb
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.csproj.AssemblyReference.cache
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\Pantallas\listaEmpleados.xaml.g.cs
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\Pantallas\registrarEmpleados.xaml.g.cs
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.AssemblyInfoInputs.cache
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.AssemblyInfo.cs
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.csproj.CoreCompileInputs.cache
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.dll
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\ref\TareaTercerParcial.dll
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.pdb
+C:\Users\rider\source\repos\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\Pantallas\modificarEmpleados.xaml.g.cs
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\TareaTercerParcial.deps.json
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\TareaTercerParcial.dll
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\ref\TareaTercerParcial.dll
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\bin\Debug\netstandard2.0\TareaTercerParcial.pdb
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.csproj.AssemblyReference.cache
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.AssemblyInfoInputs.cache
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.AssemblyInfo.cs
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.csproj.CoreCompileInputs.cache
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.dll
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\ref\TareaTercerParcial.dll
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\TareaTercerParcial.pdb
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\Views\listaEmpleados.xaml.g.cs
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\Views\modificarEmpleados.xaml.g.cs
+D:\Movil II\TareaTercerParcial\TareaTercerParcial\TareaTercerParcial\obj\Debug\netstandard2.0\Views\registrarEmpleados.xaml.g.cs

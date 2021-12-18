@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TareaTercerParcial.Pantallas.modificarEmpleados">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Background="White">
+
+                <Frame BackgroundColor="CornflowerBlue" Padding="24" CornerRadius="0">
+                    <Label Text="Registrar Empleados" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                </Frame>
+
+                <Entry x:Name="txtId" Text="{Binding Id_Empleado}" FontSize="0" TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+                <Label Text="Nombres" TextColor="Black"></Label>
+                <Entry x:Name="txtNombre" Text="{Binding Nombre}" Placeholder="Ingrese sus Nombres" TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+                <Label Text="Apellido" TextColor="Black"></Label>
+                <Entry x:Name="txtApellido" Text="{Binding Apellido}" Placeholder="Ingrese sus Apellidos" TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+                <Label Text="Edad" TextColor="Black"></Label>
+                <Entry x:Name="txtEdad" Text="{Binding Edad}" Placeholder="Ingrese su Edad" Keyboard="Numeric" TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+                <Label Text="Direccion" TextColor="Black"></Label>
+                <Entry x:Name="txtDireccion" Text="{Binding Direccion}" Placeholder="Ingrese su Direccion" TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+                <Label Text="Puestos" TextColor="Black"></Label>
+                <Entry x:Name="txtPuestos" Text="{Binding Puesto}" Placeholder="Ingrese Puesto" TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+
+
+                <StackLayout Margin="-20,10,0,0" Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Button x:Name="btnModificar" Text="Modificar " Clicked="btnModificar_Clicked"  HeightRequest="50" CornerRadius="30" FontAttributes="Bold" TextColor="White" BackgroundColor="CornflowerBlue"  />
+                    <Button x:Name="btnEliminar" Text="Eliminar" Clicked="btnEliminar_Clicked" WidthRequest="100" HeightRequest="50" CornerRadius="30" FontAttributes="Bold" TextColor="White" BackgroundColor="CornflowerBlue"/>
+                </StackLayout>
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

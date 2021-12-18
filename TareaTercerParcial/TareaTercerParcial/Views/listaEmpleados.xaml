@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TareaTercerParcial.Pantallas.listaEmpleados">
+    <ContentPage.Content>
+        <StackLayout Padding="0" Margin="10,100,10,0" HorizontalOptions="FillAndExpand">
+            <Frame BackgroundColor="CornflowerBlue" Padding="24" CornerRadius="0">
+                <Label Text="Lista de Pagos" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Frame  BackgroundColor="White" HeightRequest="1000" HasShadow="True" Padding="0" Margin="0">
+
+                <StackLayout>
+                    <Frame HeightRequest="200" Margin="4" CornerRadius="10" IsClippedToBounds="False"  HasShadow="True">
+                        <ListView x:Name="lisEmpleados" ItemTapped="lisEmpleados_ItemTapped">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition  Height="Auto"/>
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" ></ColumnDefinition>
+                                                <ColumnDefinition Width="*" ></ColumnDefinition>
+                                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                                <ColumnDefinition Width="*"></ColumnDefinition>
+
+                                            </Grid.ColumnDefinitions>
+
+
+                                            <Label Grid.Column="0" Text="{Binding Id_Empleado}" FontAttributes="Bold"/>
+                                            <Label Grid.Column="1" Text="{Binding Nombre}" FontAttributes="Bold"/>
+                                            <Label Grid.Column="2" Text="{Binding Apellido}" FontAttributes="Bold"/>
+                                            <Label Grid.Column="3" Text="{Binding Edad}" FontAttributes="Bold"/>
+                                            <Label Grid.Column="4" Text="{Binding Direccion}" FontAttributes="Bold"/>
+                                            <Label Grid.Column="5" Text="{Binding Puesto}" FontAttributes="Bold"/>
+                                        </Grid>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </Frame>
+
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
